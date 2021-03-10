@@ -1,1 +1,2 @@
-run = "pip install Neobot\npython3 main.py"
+language = "python3"
+run = "pip3 install -U Neobot\npython3 main.py"
