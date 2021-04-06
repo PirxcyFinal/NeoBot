@@ -1,7 +1,11 @@
 {
-        "email": "email",
-        "prefix": "!",
-        "AdminPerms": [],
-				"AcceptInvite": "true",
-				"FriendAccept": "true"
+    "email": "kalibnessa@protonmail.com",
+    "prefix": "!",
+    "AdminPerms": [],
+    "Skin": "Ikonik",
+    "Emote": "Scenario",
+    "Backbling": "Black Shield",
+    "AdminPassword": "1234",
+    "AcceptInvite": "false",
+    "FriendAccept": "true"
 }
